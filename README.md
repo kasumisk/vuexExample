@@ -15,4 +15,21 @@ npm run dev
 npm run build
 ```
 
+# pure mock data
+
+``` bash
+# mock serve  serve port is 8000
+npm run mock
+
+# mock api config
+
+edit _mockserver.json
+
+# dependencies  puer-mock
+
+npm install -g puer-mock
+
+
+```
+
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
