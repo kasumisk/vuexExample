@@ -18,17 +18,15 @@ npm run build
 # pure mock data
 
 ``` bash
+# dependencies  puer-mock
+npm install -g puer-mock
+
 # mock serve  serve port is 8000
 npm run mock
 
 # mock api config
 
 edit _mockserver.json
-
-# dependencies  puer-mock
-
-npm install -g puer-mock
-
 
 ```
 
